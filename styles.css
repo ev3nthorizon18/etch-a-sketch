@@ -1,0 +1,25 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#headerOne{
+   
+}
+#container{
+    display: flex;
+    width: 500px;
+    height: auto;
+    padding-top: 100px;
+    flex-wrap:wrap;
+    position: fixed;
+}
+
+#SquareDivs {
+background-color: aqua;
+border-style: dashed;
+width: 25px;
+height: 25px;
+}
